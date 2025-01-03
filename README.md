@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Ziqiu Zeng (Bethany), an undergraduate student at the National University of Singapore (NUS) pursuing a dual major:<br><br>- 🎓 1st Major: Computer Engineering<br>- 📊 2nd Major: Data Science and Analytics<br>- 🌟 Specialization: Internet of Things (IoT)<br><br>💡 I'm well-versed in several programming languages, including C, Java, Python, and R, and I can even navigate the intricacies of assembly language.<br><br>🔌 I have hands-on experience with various tools and platforms, such as Arduino, AutoFusion, MATLAB, Vivado, and Microsoft technologies.<br><br>💾 Beyond software, I delve into hardware with proficiency in hardware description languages, ensuring I can tackle projects from both digital and analog angles.<br><br>🌐 I'm multilingual, fluent in:<br><br>- 🇨🇳 Chinese (Mother tongue)<br>- 🇺🇸 English (Working proficiency)<br>- 🇩🇪 German (Limited working proficiency)<br><br>🚀 I'm always looking for new opportunities to learn, collaborate, and contribute to exciting open-source projects. Feel free to reach out if you have any ideas, projects, or just want to connect!<br><br><br>
 
+## 📄 My CV:
+[View my CV online](https://www.canva.com/design/DAGZW1LbQ-8/KwO1CBdI9gdoMP3XdTDdyA/view?utm_content=DAGZW1LbQ-8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6cb9d89c06)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziqiu-zeng-9565b5275) 
